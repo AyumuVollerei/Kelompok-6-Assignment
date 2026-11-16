@@ -1,0 +1,18 @@
+[
+    {
+        "id": "asg-001",
+        "course_id": "course-001",
+        "title": "Integrasi Mini LMS",
+        "description": "Membangun dan menghubungkan tujuh service berbasis REST API melalui API Gateway",
+        "due_date": "2026-11-17T23:59:00+08:00",
+        "created_at": "2026-11-10T08:00:00+08:00"
+    },
+    {
+        "id": "asg-003",
+        "course_id": "course-001",
+        "title": "Tugas 2: Uji Integrasi",
+        "description": "Pengujian lintas service melalui API Gateway",
+        "due_date": "2026-11-23T04:45:17+00:00",
+        "created_at": "2026-11-16T04:45:17+00:00"
+    }
+]
