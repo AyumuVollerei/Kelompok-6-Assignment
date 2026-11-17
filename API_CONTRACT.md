@@ -1,4 +1,4 @@
-# API Contract: Assignment Service (Kelompok 4)
+# API Contract: Assignment Service (Kelompok 6)
 
 ## Informasi umum
 - Port: 8104
