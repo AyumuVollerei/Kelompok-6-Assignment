@@ -6,5 +6,5 @@
   "submission": "http://127.0.0.1:8104",
   "assignment": "http://127.0.0.1:8106",
   "monitoring": "http://127.0.0.1:8107",
-  "verify_course": true
+  "verify_course": false
 }
